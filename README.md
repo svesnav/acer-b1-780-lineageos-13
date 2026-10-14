@@ -24,7 +24,7 @@ The port uses the Acer Android 6 kernel and proprietary MT8163 hardware modules.
 
 ## Installation
 
-See [docs/INSTALL.md](docs/INSTALL.md). Install the B1-780 TWRP build first and make an off-device backup.
+See [docs/INSTALL.md](docs/INSTALL.md). Install the [B1-780 TWRP build](https://github.com/svesnav/acer-b1-780-twrp/releases/latest) first and make an off-device backup.
 
 ## Release files
 
