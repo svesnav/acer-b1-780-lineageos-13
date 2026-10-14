@@ -1,0 +1,10 @@
+ro.sf.lcd_density=213
+ro.opengles.version=196608
+wifi.interface=wlan0
+wifi.tethering.interface=ap0
+wifi.direct.interface=p2p0
+persist.mtk.wcn.combo.chipid=-1
+camera.disable_zsl_mode=1
+dalvik.vm.heapgrowthlimit=128m
+dalvik.vm.heapsize=256m
+

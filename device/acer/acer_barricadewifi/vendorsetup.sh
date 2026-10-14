@@ -1,0 +1,2 @@
+add_lunch_combo cm_acer_barricadewifi-userdebug
+

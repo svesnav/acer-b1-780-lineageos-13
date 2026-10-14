@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- The Acer MT8163 stack supports HID host, but has no HID-device ABI. -->
+    <bool name="profile_supported_hidd">false</bool>
+    <!-- Its legacy Bluetooth Health interface blocks forever during cleanup. -->
+    <bool name="profile_supported_hdp">false</bool>
+</resources>
